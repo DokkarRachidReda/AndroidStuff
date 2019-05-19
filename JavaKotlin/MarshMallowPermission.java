@@ -8,6 +8,7 @@ import android.support.v4.app.ActivityCompat;
 import android.support.v4.content.ContextCompat;
 import android.widget.Toast;
 
+// special thanks to polaroyd project
 
 public class MarshMallowPermission {
 
