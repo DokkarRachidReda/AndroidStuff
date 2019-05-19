@@ -31,7 +31,7 @@ public class BackgroundTask extends AsyncTask<String,Void,String> {
        String user=voids[0];
        String passwd=voids[1];
 
-       String phpConection="http://192.168.1.8/android_connection_db.php";
+       String phpConection="http://192.168.1.8/android_connection_db.php"; // in case u are using a real device , use 10.0.0.2 in case of emulator
 
         try {
             URL url=new URL(phpConection);
