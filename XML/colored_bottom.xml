@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- to get a rounded shape with colored bottom,kind of alerts XD -->
 <item>
     <shape android:shape="rectangle">
         <solid android:color="@color/greene"/>
