@@ -24,7 +24,7 @@ contain xml drawable backgrounds .
 
 * colored_bottom 
 
-<img src="https://github.com/DokkarRachidReda/NatureSoundMixer/blob/master/ss1.jpg" width="100" height="100" />
+<img src="https://github.com/DokkarRachidReda/AndroidStuff/blob/master/colored_bottom.JPG" width="100" height="100" />
 
 * rounded corner
 
